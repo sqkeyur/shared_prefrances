@@ -1,0 +1,1 @@
+const String homeRoutes = '/homeRoutes';
